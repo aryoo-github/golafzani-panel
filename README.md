@@ -1,4 +1,8 @@
 # golafzani-panel 📡
+
+*آسیب پذیری در لاگین پنل موجود میباشد! پیشنهاد میشود تا اطلاع ثانویه بر روی پنل رمزی نگذارید!*
+
+
 *برای تغییر رمز پنل به خط 815 کد ورکر بروید و ;"var pass1="root را پیدا کنید رمز پیشفرض root است برای تغییر رمز در فقط root را پاک کنید و پسورد دلخواه خود را وارد کنید (حتما انگلیسی باشد بدون ایموجی و حروف فارسی)*
 
 *To change the password of the panel, go to line 815 of Code Worker and find var pass1="root"; The default password is root. To change the password, just delete root and enter your desired password (it must be in English, without emojis and Persian letters). )*
